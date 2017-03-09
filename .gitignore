@@ -1,0 +1,10 @@
+/.settings
+/.project
+/.buildpath
+phpunit.xml
+.idea/
+.idea
+.DS_Store
+.tags
+.tags_sorted_by_file
+*.swp
